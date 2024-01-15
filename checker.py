@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 class MacCompatibilityFinderApp:
     mac_versions = {
-        
+        #macbook pros
     "MacBook Pro (14-inch, Nov 2023) - M3 chip, Two Thunderbolt / USB 4 ports": "macOS Sonoma",
     "MacBook Pro (14-inch, Nov 2023) - M3 Pro or M3 Max chip, Three Thunderbolt 4 ports": "macOS Sonoma",
     "MacBook Pro (16-inch, Nov 2023) - M3 Pro or M3 Max chip, Three Thunderbolt 4 ports": "macOS Sonoma",
@@ -84,43 +84,31 @@ class MacCompatibilityFinderApp:
 
     "iMac (24-inch, 2023, Four ports)": "Sonoma",
     "iMac (24-inch, 2023, Two ports)": "Sonoma",
-
     "iMac (24-inch, M1, 2021)": "Sonoma",
     "iMac (24-inch, M1, 2021)": "Sonoma",
-
     "iMac (Retina 5K, 27-inch, 2020)": "Sonoma",
-
     "iMac (Retina 5K, 27-inch, 2019)": "Sonoma",
     "iMac (Retina 4K, 21.5-inch, 2019)": "Sonoma",
-
     "iMac Pro (2017)": "Sonoma",
     "iMac (Retina 5K, 27-inch, 2017)": "Ventura",
     "iMac (Retina 4K, 21.5-inch, 2017)": "Ventura",
     "iMac (21.5-inch, 2017)": "Ventura",
-
     "iMac (Retina 5K, 27-inch, Late 2015)": "Monterey",
     "iMac (Retina 4K, 21.5-inch, Late 2015)": "Monterey",
     "iMac (21.5-inch, Late 2015)": "Monterey",
     "iMac (Retina 5K, 27-inch, Mid 2015)": "Monterey",
-    
     "iMac (Retina 5K, 27-inch, Late 2014)": "Big Sur",
     "iMac (21.5-inch, Mid 2014)": "Big Sur",
-
     "iMac (27-inch, Late 2013)": "Catalina",
     "iMac (21.5-inch, Late 2013)": "Catalina",
-
     "iMac (27-inch, Late 2012)": "Catalina",
     "iMac (21.5-inch, Late 2012)": "Catalina",
-
     "iMac (27-inch, Mid 2011)": "High Sierra",
     "iMac (21.5-inch, Mid 2011)": "High Sierra",
-
     "iMac (27-inch, Mid 2010)": "High Sierra",
     "iMac (21.5-inch, Mid 2010)": "High Sierra",
-
     "iMac (27-inch, Late 2009)": "High Sierra",
     "iMac (21.5-inch, Late 2009)": "High Sierra",
-
     "iMac (24-inch, Early 2009)": "El Capitan",
     "iMac (20-inch, Early 2009)": "El Capitan",
     }
