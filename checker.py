@@ -153,5 +153,5 @@ class MacCompatibilityFinderApp:
 root = tk.Tk()
 app = MacCompatibilityFinderApp(root)
 
-# Run the Tkinter event loop
+
 root.mainloop()
